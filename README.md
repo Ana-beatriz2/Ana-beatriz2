@@ -1,7 +1,4 @@
-- Hi, I’m @Ana-beatriz2
-- I’m interested in ...
-- I’m currently learning python
-- I’m looking to collaborate on ...
+Meu nome é Ana Beatriz, sou estudante de Sistemas de Informação do Cefet/RJ, e estou iniciando no desenvolvimento. No momento, estou aprendendo mais acerca de git, Python, Java e C. Estou tentando colocar os projetos que faço aqui, como forma de compartilhar minha evolução.
 
 
 <!---
