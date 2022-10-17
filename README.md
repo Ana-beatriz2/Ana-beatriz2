@@ -1,4 +1,4 @@
-Meu nome é Ana Beatriz, sou estudante de Sistemas de Informação do Cefet/RJ, e estou iniciando no desenvolvimento. No momento, estou aprendendo mais acerca de git, Python, Java e C. Estou tentando colocar os projetos que faço aqui, como forma de compartilhar minha evolução.
+Meu nome é Ana Beatriz, sou estudante de Sistemas de Informação do Cefet/RJ, e estou iniciando no desenvolvimento. No momento, estou aprendendo mais acerca de git, Python, Java e C. Estou tentando colocar os projetos que faço aqui, como forma de compartilhar meu aprendizado.
 
 
 <!---
