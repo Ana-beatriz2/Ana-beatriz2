@@ -1,4 +1,4 @@
-Meu nome é Ana Beatriz, sou estudante de Sistemas de Informação do Cefet/RJ, e estou iniciando no desenvolvimento. No momento, estou aprendendo mais acerca de git, JavaScript, HTML e CSS.
+Meu nome é Ana Beatriz, sou estudante de Sistemas de Informação e, no momento, estou aprendendo mais acerca de git, JavaScript, HTML e CSS.
 
   ##
   
